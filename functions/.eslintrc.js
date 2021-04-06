@@ -9,6 +9,7 @@ module.exports = {
     "google",
   ],
   rules: {
+    "require-jsdoc": "off",
     "max-len": "off",
     "quotes": ["error", "double"],
   },
