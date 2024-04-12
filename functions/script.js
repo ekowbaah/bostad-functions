@@ -8,7 +8,7 @@ let message = "";
 const getStoredApartments = {
   url: "https://api.jsonbin.io/v3/b/606c74606397691864749a75/1",
   headers: {
-    "X-Master-Key": "$2b$10$iSeXo4/on2EgNGtpDOZfBewRE30J/x4aqzNMhpGMvdM59YLn7tBWG",
+    "X-Master-Key": "",
   },
   json: true, // Automatically parses the JSON string in the response
 };
