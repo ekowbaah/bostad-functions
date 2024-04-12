@@ -1,8 +1,8 @@
 const rp = require("request-promise");
 // var Table = require('cli-table');
 // replace the value below with the Telegram token you receive from @BotFather
-const token = "1750061258:AAHphqzXsZWjoSZrREN3wCrDxux6bErdC6g";
-const chatId = "1723877882";
+const token = "";
+const chatId = "";
 let message = "";
 
 const getStoredApartments = {
